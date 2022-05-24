@@ -229,8 +229,8 @@ ul {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  background-color: var(--white-text-color);
-  color: var(--accent-color);
+     background: #188CE8;
+border-radius: 4px;
 }
 
 /* ------------ПРЕИМУЩЕСТВА-------------- */
