@@ -229,8 +229,8 @@ ul {
 
 .hero-btn:hover,
 .hero-btn:focus {
-     background: #188CE8;
-border-radius: 4px;
+  background: #188CE8;
+  border-radius: 4px;
 }
 
 /* ------------ПРЕИМУЩЕСТВА-------------- */
@@ -348,7 +348,7 @@ border-radius: 4px;
   display: block;
   border-radius: 50%;
   color: #afb1b8;
-  background-color: #f5f4fa;
+  background-color: var(--white-background-color);
 }
 
 .team-social-link:hover,
